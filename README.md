@@ -1,5 +1,7 @@
 # 🎙️ Twitch Voice-Controlled Moderation Bot
 
+NOT FULLY DONE, USING WHISPER FOR TRANSCRIBING DOES NOT FULLY WORK
+
 This bot listens to your Twitch livestream audio, detects moderation phrases like “timeout [word]” or “remove [word]”, and updates your Nightbot blacklist in real-time. Perfect for streamers who want voice-only control over chat moderation.
 
 ## ✨ Features
